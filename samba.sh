@@ -15,7 +15,7 @@ echo " ------------------------------------------------------ "
 echo " "
 echo "1 - Instalar Samba Ubuntu , Debian y Derivados"
 echo "2 - Configurar Samba Todos los GNU/Linux en /home/$USER/compartido "
-echo "y en en /home/compartido"
+echo "y en en /home/compartidos"
 
 #echo "3 - Configurar Samba Todos los GNU/Linux en /home/compartido"
 
