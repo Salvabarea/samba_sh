@@ -31,7 +31,7 @@ sudo chmod +x samba.sh
 # video
 
 
-[https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
+# [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
 
 
 # [https://huezo.github.io/samba_sh/](https://huezo.github.io/samba_sh/)
