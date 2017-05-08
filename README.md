@@ -39,3 +39,12 @@ sudo chmod +x samba.sh
 # blog
 
 # [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
+
+
+
+## referencias para ampliar ideas:
+https://help.ubuntu.com/lts/serverguide/samba.html
+
+
+https://wiki.debian.org/SambaServerSimple
+
