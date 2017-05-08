@@ -1,22 +1,25 @@
 
 # SCRIPT para Configurar Samba 
 
+¿ que hace el script?
+configura samba , crea dos carpetas con permisos de acceso a invitado para compartir
+lo que desees en esas dos carpetas , las dos carpetas estan la primera en $HOME/compartido 
+la segunda en /home/compartidos.
+el script puedes adapartarlo a tus necesidades 
 
-# Permisos:
+
+## Permiso:
 
 ```
 sudo chmod +x samba.sh
 ```
 
-# Ejecutar:
+## Ejecutar:
 
 ```
 ./samba.sh
 ```
 
-
-
-# 
 
 
 
@@ -26,15 +29,15 @@ sudo chmod +x samba.sh
 
 
 # Descargar 
-# [https://github.com/huezo/samba_sh/releases](https://github.com/huezo/samba_sh/releases)
+## [https://github.com/huezo/samba_sh/releases](https://github.com/huezo/samba_sh/releases)
 
 # video
 
 
-# [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
+## [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
 
 
-# [https://huezo.github.io/samba_sh/](https://huezo.github.io/samba_sh/)
+## [https://huezo.github.io/samba_sh/](https://huezo.github.io/samba_sh/)
 
 # blog
 
