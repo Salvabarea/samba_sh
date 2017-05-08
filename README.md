@@ -34,6 +34,17 @@ sudo chmod +x samba.sh
 # video
 
 
+## Nota 
+Agregar el usuario al grupo `nogroup`
+
+```
+sudo usermod -a -G nogroup $USER
+```
+--------------------------------
+```
+groups $USER
+```
+
 ## [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
 
 
