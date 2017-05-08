@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/huezo/samba_sh/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# SCRIPT para Configurar Samba 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Permisos:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+sudo chmod +x samba.sh
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Ejecutar:
 
-### Jekyll Themes
+```
+./samba.sh
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huezo/samba_sh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 
+
+
+
+[samba]:https://raw.githubusercontent.com/huezo/samba_sh/master/samba.png
+
+![samba][samba]
+
+
+# Descargar 
+# [https://github.com/huezo/samba_sh/releases](https://github.com/huezo/samba_sh/releases)
+
+# video
+
+
+[https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
+
+
+# [https://huezo.github.io/samba_sh/](https://huezo.github.io/samba_sh/)
+
+# blog
+
+# [https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)
