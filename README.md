@@ -44,9 +44,6 @@ sudo chmod +x samba.sh
 
 _____________________________________________________________________________
 
-[https://huezo.github.io/samba_sh/](https://huezo.github.io/samba_sh/)
-
-____________________________________________________________________________
 
 
 # blog
@@ -63,4 +60,4 @@ https://wiki.debian.org/SambaServerSimple
 
 
 
-
+[https://huezo.github.io/samba_sh/](https://huezo.github.io/samba_sh/)
