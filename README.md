@@ -31,7 +31,13 @@ sudo chmod +x samba.sh
 # Descargar 
 ## [https://github.com/huezo/samba_sh/releases](https://github.com/huezo/samba_sh/releases)
 
+
 # video
+
+## [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
+
+
+
 
 
 ## Nota 
@@ -45,10 +51,32 @@ sudo usermod -a -G nogroup $USER
 groups $USER
 ```
 
-## [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
+## netbios 
+¿ Nombre de la Netbios ? 
 
 
-## [https://huezo.github.io/samba_sh/](https://huezo.github.io/samba_sh/)
+[netbios]:https://raw.githubusercontent.com/huezo/samba_sh/master/netbios2.png
+
+![netbios][netbios]
+
+Nos permitira esto , en la pestaña de red sera visible el servidor samba
+con las Carpetas Compartidas
+
+[netbios1]:https://raw.githubusercontent.com/huezo/samba_sh/master/netbio.png
+
+![netbios1][netbios1]
+
+
+[netbios2]:https://raw.githubusercontent.com/huezo/samba_sh/master/netbio1.png
+
+![netbios2][netbios2]
+
+_____________________________________________________________________________
+
+[https://huezo.github.io/samba_sh/](https://huezo.github.io/samba_sh/)
+
+____________________________________________________________________________
+
 
 # blog
 
