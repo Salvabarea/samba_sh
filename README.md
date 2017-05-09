@@ -35,14 +35,12 @@ sudo chmod +x samba.sh
 
 [https://github.com/huezo/samba_sh/wiki](https://github.com/huezo/samba_sh/wiki)
 
+
 # video
 
-## [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
+ [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
 
 
-## Wiki
-
-[https://github.com/huezo/samba_sh/wiki](https://github.com/huezo/samba_sh/wiki)
 
 _____________________________________________________________________________
 
