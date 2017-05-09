@@ -31,45 +31,18 @@ sudo chmod +x samba.sh
 # Descargar 
 ## [https://github.com/huezo/samba_sh/releases](https://github.com/huezo/samba_sh/releases)
 
+## Wiki
+
+[https://github.com/huezo/samba_sh/wiki](https://github.com/huezo/samba_sh/wiki)
 
 # video
 
 ## [https://youtu.be/k6ekSAOBm-E](https://youtu.be/k6ekSAOBm-E)
 
 
+## Wiki
 
-
-
-## Nota 
-Agregar el usuario al grupo `nogroup`
-
-```
-sudo usermod -a -G nogroup $USER
-```
---------------------------------
-```
-groups $USER
-```
-
-## netbios 
-¿ Nombre de la Netbios ? 
-
-
-[netbios]:https://raw.githubusercontent.com/huezo/samba_sh/master/netbios2.png
-
-![netbios][netbios]
-
-Nos permitira esto , en la pestaña de red sera visible el servidor samba
-con las Carpetas Compartidas
-
-[netbios1]:https://raw.githubusercontent.com/huezo/samba_sh/master/netbio.png
-
-![netbios1][netbios1]
-
-
-[netbios2]:https://raw.githubusercontent.com/huezo/samba_sh/master/netbio1.png
-
-![netbios2][netbios2]
+[https://github.com/huezo/samba_sh/wiki](https://github.com/huezo/samba_sh/wiki)
 
 _____________________________________________________________________________
 
@@ -89,4 +62,7 @@ https://help.ubuntu.com/lts/serverguide/samba.html
 
 
 https://wiki.debian.org/SambaServerSimple
+
+
+
 
